@@ -1,2 +1,2 @@
-# imx6sxsabresd-documentation
-i.MX6 SoloX SabreSD documents
+imx6sxsabresd-documentation
+===========================
