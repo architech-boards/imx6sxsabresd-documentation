@@ -3,7 +3,7 @@ Architech's i.MX6 SoloX SabreSD documentation
 *********************************************
 
 :Version: 2.0.0A
-:Copyright: Architech
+:Copyright: (C)2016 Avnet Silica company
 :Date: 24/04/15
 
 .. image:: _static/board.png
